@@ -7,4 +7,4 @@ python3 password_generator.py  [length password]
 
 python3 password_generator.py 6
 
-> Da$12%
+-  Da$12%
